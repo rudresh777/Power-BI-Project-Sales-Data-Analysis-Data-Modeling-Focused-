@@ -1,7 +1,8 @@
+![Dashboard Overview](images/dashboard_overview.png)
 📊 Power BI Sales Data Analysis (Data Modeling Focused)
 
 📌 Project Overview
-
+![Business Requirements](images/business_requirements.png)
 This project presents an end-to-end Sales Data Analysis solution using Power BI, focusing on:
 
 Data Modeling (Star Schema)
@@ -39,6 +40,7 @@ Profit vs Net Sales Relationship
 Sales Trends Over Time
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 🏗 Data Modeling (Star Schema)
+![Data Model](images/data_model.png)
 
 This project implements a Star Schema Model consisting of:
 
@@ -73,6 +75,8 @@ Optimized for analytical queries
 (Add: data_model.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔄 Data Cleaning & Transformation (Power Query)
+![Power Query Steps](images/power_query_steps.png)
+![Power Query Table View](images/power_query_table_view.png)
 
 Performed:
 
@@ -95,6 +99,7 @@ Added Custom Columns
 (Add: power_query_steps.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Dashboard Features
+![KPI Comparison](images/kpi_comparison.png)
 1️⃣ Sales by City (Geographical Analysis)
 
 Map Visualization
